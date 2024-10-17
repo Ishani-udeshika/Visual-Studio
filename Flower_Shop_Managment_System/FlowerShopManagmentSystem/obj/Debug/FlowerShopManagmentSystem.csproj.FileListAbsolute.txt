@@ -1,0 +1,77 @@
+C:\Users\Dell\source\repos\FlowerShopManagmentSystem\FlowerShopManagmentSystem\bin\Debug\FlowerShopManagmentSystem.exe.config
+C:\Users\Dell\source\repos\FlowerShopManagmentSystem\FlowerShopManagmentSystem\bin\Debug\FlowerShopManagmentSystem.exe
+C:\Users\Dell\source\repos\FlowerShopManagmentSystem\FlowerShopManagmentSystem\bin\Debug\FlowerShopManagmentSystem.pdb
+C:\Users\Dell\source\repos\FlowerShopManagmentSystem\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\FlowerShopManagmentSystem\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\FlowerShopManagmentSystem\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Form1.resources
+C:\Users\Dell\source\repos\FlowerShopManagmentSystem\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Properties.Resources.resources
+C:\Users\Dell\source\repos\FlowerShopManagmentSystem\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\FlowerShopManagmentSystem\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\FlowerShopManagmentSystem\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.exe
+C:\Users\Dell\source\repos\FlowerShopManagmentSystem\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.pdb
+C:\Users\Dell\Desktop\FlowerShopManagmentSystem-Copy1\FlowerShopManagmentSystem\bin\Debug\FlowerShopManagmentSystem.exe.config
+C:\Users\Dell\Desktop\FlowerShopManagmentSystem-Copy1\FlowerShopManagmentSystem\bin\Debug\FlowerShopManagmentSystem.exe
+C:\Users\Dell\Desktop\FlowerShopManagmentSystem-Copy1\FlowerShopManagmentSystem\bin\Debug\FlowerShopManagmentSystem.pdb
+C:\Users\Dell\Desktop\FlowerShopManagmentSystem-Copy1\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\FlowerShopManagmentSystem-Copy1\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\FlowerShopManagmentSystem-Copy1\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Properties.Resources.resources
+C:\Users\Dell\Desktop\FlowerShopManagmentSystem-Copy1\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\FlowerShopManagmentSystem-Copy1\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\FlowerShopManagmentSystem-Copy1\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.exe
+C:\Users\Dell\Desktop\FlowerShopManagmentSystem-Copy1\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.pdb
+C:\Users\Dell\Desktop\FlowerShopManagmentSystem-Copy1\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Main.resources
+C:\Users\Dell\Desktop\FlowerShopManagmentSystem-Copy1\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Flower.resources
+C:\Users\Dell\Desktop\FlowerShopManagmentSystem-Copy1\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.LoginForm.resources
+C:\Users\Dell\Desktop\FlowerShopManagmentSystem-Copy1\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.OrderItem.resources
+C:\Users\Dell\Desktop\FlowerShopManagmentSystem-Copy1\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Order.resources
+C:\Users\Dell\Desktop\FlowerShopManagmentSystem-Copy1\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Customer.resources
+C:\Users\Dell\Desktop\Original\FlowerShopManagmentSystem\bin\Debug\FlowerShopManagmentSystem.exe.config
+C:\Users\Dell\Desktop\Original\FlowerShopManagmentSystem\bin\Debug\FlowerShopManagmentSystem.exe
+C:\Users\Dell\Desktop\Original\FlowerShopManagmentSystem\bin\Debug\FlowerShopManagmentSystem.pdb
+C:\Users\Dell\Desktop\Original\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Original\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Original\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Customer.resources
+C:\Users\Dell\Desktop\Original\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.LoginForm.resources
+C:\Users\Dell\Desktop\Original\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Main.resources
+C:\Users\Dell\Desktop\Original\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Flower.resources
+C:\Users\Dell\Desktop\Original\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Order.resources
+C:\Users\Dell\Desktop\Original\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.OrderItem.resources
+C:\Users\Dell\Desktop\Original\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Properties.Resources.resources
+C:\Users\Dell\Desktop\Original\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Original\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Original\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.exe
+C:\Users\Dell\Desktop\Original\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.pdb
+C:\Users\Dell\Desktop\Original - Copy\FlowerShopManagmentSystem\bin\Debug\FlowerShopManagmentSystem.exe.config
+C:\Users\Dell\Desktop\Original - Copy\FlowerShopManagmentSystem\bin\Debug\FlowerShopManagmentSystem.exe
+C:\Users\Dell\Desktop\Original - Copy\FlowerShopManagmentSystem\bin\Debug\FlowerShopManagmentSystem.pdb
+C:\Users\Dell\Desktop\Original - Copy\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Original - Copy\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Original - Copy\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Customer.resources
+C:\Users\Dell\Desktop\Original - Copy\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.LoginForm.resources
+C:\Users\Dell\Desktop\Original - Copy\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Main.resources
+C:\Users\Dell\Desktop\Original - Copy\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Flower.resources
+C:\Users\Dell\Desktop\Original - Copy\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Order.resources
+C:\Users\Dell\Desktop\Original - Copy\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Properties.Resources.resources
+C:\Users\Dell\Desktop\Original - Copy\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Original - Copy\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Original - Copy\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.exe
+C:\Users\Dell\Desktop\Original - Copy\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.pdb
+C:\Users\Dell\Desktop\Original - Copy\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Stock.resources
+C:\Users\Dell\Desktop\Original - Copy\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Bill.resources
+C:\Users\Dell\Desktop\Udeshika_WDI_E2240312_VisualStudio\FlowerShopManagmentSystem\bin\Debug\FlowerShopManagmentSystem.exe.config
+C:\Users\Dell\Desktop\Udeshika_WDI_E2240312_VisualStudio\FlowerShopManagmentSystem\bin\Debug\FlowerShopManagmentSystem.exe
+C:\Users\Dell\Desktop\Udeshika_WDI_E2240312_VisualStudio\FlowerShopManagmentSystem\bin\Debug\FlowerShopManagmentSystem.pdb
+C:\Users\Dell\Desktop\Udeshika_WDI_E2240312_VisualStudio\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Udeshika_WDI_E2240312_VisualStudio\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Udeshika_WDI_E2240312_VisualStudio\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Bill.resources
+C:\Users\Dell\Desktop\Udeshika_WDI_E2240312_VisualStudio\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Customer.resources
+C:\Users\Dell\Desktop\Udeshika_WDI_E2240312_VisualStudio\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.LoginForm.resources
+C:\Users\Dell\Desktop\Udeshika_WDI_E2240312_VisualStudio\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Main.resources
+C:\Users\Dell\Desktop\Udeshika_WDI_E2240312_VisualStudio\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Flower.resources
+C:\Users\Dell\Desktop\Udeshika_WDI_E2240312_VisualStudio\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Order.resources
+C:\Users\Dell\Desktop\Udeshika_WDI_E2240312_VisualStudio\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Properties.Resources.resources
+C:\Users\Dell\Desktop\Udeshika_WDI_E2240312_VisualStudio\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.Stock.resources
+C:\Users\Dell\Desktop\Udeshika_WDI_E2240312_VisualStudio\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Udeshika_WDI_E2240312_VisualStudio\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Udeshika_WDI_E2240312_VisualStudio\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.exe
+C:\Users\Dell\Desktop\Udeshika_WDI_E2240312_VisualStudio\FlowerShopManagmentSystem\obj\Debug\FlowerShopManagmentSystem.pdb
